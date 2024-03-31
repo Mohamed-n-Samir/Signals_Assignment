@@ -1,0 +1,192 @@
+
+x
+Lower: 0
+Upper: 1
+Cartesian = 0.5001249999999691
+Polar = 0.5001249999999691 * exp(0.0j)
+
+x
+Lower: 0
+Upper: 1
+Cartesian = 0.500109991600009
+Polar = 0.500109991600009 * exp(0.0j)
+
+x
+Lower: 0
+Upper: 1
+Cartesian = 0.5000199903999794
+Polar = 0.5000199903999794 * exp(0.0j)
+
+x**2
+Lower: -10
+Upper: 10
+Cartesian = 666.6676666484591
+Polar = 666.6676666484591 * exp(0.0j)
+
+x**2
+Lower: -1
+Upper: 1
+Cartesian = 0.6667066670663703
+Polar = 0.6667066670663703 * exp(0.0j)
+
+x
+Lower: 0
+Upper: 1
+Cartesian = 0.49995499950005845
+Polar = 0.49995499950005845 * exp(0.0j)
+
+cos(x)
+Lower: -1
+Upper: 1
+Cartesian = 1.683028415292044
+Polar = 1.683028415292044 * exp(0.0j)
+
+x**2
+Lower: -1
+Upper: 1
+Cartesian = 0.6668266730665521
+Polar = 0.6668266730665521 * exp(0.0j)
+
+(cos(x) + 6j * sin(2*x)) * ( e ** (w * 1j * x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.385527941349287-2.4713746329178092j)
+Polar = 2.83326318094335 * exp(-2.0817644815131775j)
+
+(cos(x) + 6j * sin(2*x)) * ( e ** (w * 1j * x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.3854712731115417-2.4714301889357793j)
+Polar = 2.833283929894859 * exp(-2.081737446382868j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.3854470250894284
+Polar = 1.3854470250894284 * exp(3.141592653589793j)
+
+cos(x)
+Lower: -1
+Upper: 1
+Cartesian = 1.683028414787179
+Polar = 1.683028414787179 * exp(0.0j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.3853750664219453
+Polar = 1.3853750664219453 * exp(3.141592653589793j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.3855294346402427
+Polar = 1.3855294346402427 * exp(3.141592653589793j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.3854470250894284
+Polar = 1.3854470250894284 * exp(3.141592653589793j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.3854917456790103
+Polar = 1.3854917456790103 * exp(3.141592653589793j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.3854300229472194
+Polar = 1.3854300229472194 * exp(3.141592653589793j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.385147223371366
+Polar = 1.385147223371366 * exp(3.141592653589793j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.385147223371366
+Polar = 1.385147223371366 * exp(3.141592653589793j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.385147223371366
+Polar = 1.385147223371366 * exp(3.141592653589793j)
+
+(cos(x) + 6j * sin(2*x)) * ( e **(w * 1j * x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.385147223371366-2.4726919607489997j)
+Polar = 2.834226237117661 * exp(-2.0814200165277867j)
+
+x**2
+Lower: -1
+Upper: 1
+Cartesian = 0.6671667499999546
+Polar = 0.6671667499999546 * exp(0.0j)
+
+(cos(x)+6*1j*sin(2*x))*(e**(0*1j*x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.385147223371366-2.4726919607489997j)
+Polar = 2.834226237117661 * exp(-2.0814200165277867j)
+
+(cos(x)+6*1j*sin(2*x))*(e**(0*1j*x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.385147223371366-2.4726919607489997j)
+Polar = 2.834226237117661 * exp(-2.0814200165277867j)
+
+(cos(x)+6*1j*sin(2*x))*(e**(0*1j*x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.3854935893391904-2.472632028913101j)
+Polar = 2.8343432460637 * exp(-2.0815369654736156j)
+
+(cos(x)+6*1j*sin(2*x))*(e**(0*1j*x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.385147223371366-2.4726919607489997j)
+Polar = 2.834226237117661 * exp(-2.0814200165277867j)
+
+(cos(x)+6*1j*sin(2*x))*(e**(0*1j*x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.3854935893391904-2.472632028913101j)
+Polar = 2.8343432460637 * exp(-2.0815369654736156j)
+
+(cos(x)+6*1j*sin(2*x))*(e**(w*1j*x))
+Lower: 1
+Upper: 10
+Cartesian = (-1.3854917456790103-2.4721949029134325j)
+Polar = 2.833961011611809 * exp(-2.0816117968081778j)
+
+cos(x)
+Lower: 1
+Upper: 2
+Cartesian = 0.06783122425976221
+Polar = 0.06783122425976221 * exp(0.0j)
+
+cos(x)
+Lower: -1
+Upper: 1
+Cartesian = 1.6829635783841626
+Polar = 1.6829635783841626 * exp(0.0j)
+
+cos(x) + sin(x)
+Lower: -1
+Upper: 1
+Cartesian = 1.6828205264797857
+Polar = 1.6828205264797857 * exp(0.0j)
+
+cos(x)
+Lower: 1
+Upper: 10
+Cartesian = -1.385514500779565
+Polar = 1.385514500779565 * exp(3.141592653589793j)
