@@ -327,7 +327,7 @@ tk.Frame(window,width=1600,height=820,bg=app_theme[0]).place(x=0,y=100)
 
 tk.Button(window,text='Instruction',command= instruction,width=9,height=2,bg=app_theme[3],fg=app_theme[1],font=('Arial','9','bold')).place(x=25,y=110)
 tk.Button(window,text='History',command= history, width=9,height=2,bg=app_theme[3],fg=app_theme[1],font=('Arial','9','bold')).place(x=110,y=110)
-tk.Label(window,text='@Eshik-X',font=("Arial",16,'bold'),bg=app_theme[0],fg=app_theme[1]).place(x=1070,y=110)
+tk.Label(window,text='elmazarita.com',font=("Arial",16,'bold'),bg=app_theme[0],fg=app_theme[1]).place(x=1040,y=110)
 
 tk.Label(window,text='S',font=('Berlin Sans FB Demi','100','bold'),bg=app_theme[0],fg=app_theme[1]).place(x=50,y=190)
 tk.Label(window,text='f(x) = ',font=('Berlin Sans FB Demi','36','bold'),bg=app_theme[0],fg=app_theme[1]).place(x=130,y=240)
