@@ -96,7 +96,7 @@ def integrate_function():
         fourier_representation = f"{round(a0,4)}/2 \n"
 
         for coefficient in coefficients:
-            fourier_representation += f"+ [({round(coefficient[1],4)} * cos({coefficient[0]} * {w0} * t)) + {round(coefficient[2],4)} * cos({coefficient[0]} * {w0} * t)]\n"
+            fourier_representation += f"+ [({round(coefficient[1],4)} * cos({coefficient[0]} * {w0} * t)) + {round(coefficient[2],4)} * sin({coefficient[0]} * {w0} * t)]\n"
 
         my_fourier_window(fourier_representation)
 
@@ -206,6 +206,7 @@ def convert_to_sympy_function(fx_string):
     fx_string = re.sub(r'log', r'sp.log', fx_string)
     print(fx_string)
     return fx_string
+
 
 def sympy_f(x):
     return (eval(convert_to_sympy_function(integration_function.get())) * (sp.exp(w*sp.I*x)))
